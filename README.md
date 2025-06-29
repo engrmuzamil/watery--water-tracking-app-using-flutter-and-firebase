@@ -1,15 +1,39 @@
-Watery: Water Tracking App develop using flutter
+# 🌊 Watery – Water Tracking App
 
-Track Daily In Take of Water
-Features:
-1. Amazing UI
-2. Login/Signup
-3. Profile/Update Profile
-4. Multiple water intake options
-5. Statistics
+**Watery** is a beautifully designed Flutter application that helps you effortlessly track your daily water intake, set hydration goals, and stay healthy.
 
-Tools used:
-1. Flutter
-2. Dart
-3. Firebase
-4. Provider
+---
+
+## 🚀 Features
+
+✅ **Modern UI/UX** – Sleek, user-friendly design for an engaging experience  
+✅ **Secure Authentication** – Login and signup with Firebase Authentication  
+✅ **Profile Management** – Create, view, and update your personal profile  
+✅ **Flexible Water Intake Logging** – Choose from multiple water sizes to log your drinks  
+✅ **Detailed Statistics** – Visualize your hydration progress with intuitive charts and insights
+
+---
+
+## 🛠️ Built With
+
+- **Flutter** – Cross-platform mobile development framework  
+- **Dart** – Programming language for Flutter  
+- **Firebase** – Authentication, Firestore database, and backend services  
+- **Provider** – State management solution for Flutter apps
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed – [Get Flutter](https://docs.flutter.dev/get-started/install)
+- Android Studio / Xcode for emulators
+- Firebase account for backend setup
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/watery.git
+   cd watery
